@@ -1,2 +1,2 @@
 # aulasenac
-meu reposiotírio senac
+meu repositorio ninho 
